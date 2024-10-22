@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\dot-net\\loops\\loops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2F9163-72D2-474E-A552-663AFCE465D6}|loops.csproj|c:\\users\\admin\\desktop\\dot-net\\loops\\loops\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2F9163-72D2-474E-A552-663AFCE465D6}|loops.csproj|solutionrelative:fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fibonacci.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\dot-net\\loops\\loops\\Fibonacci.cs",
+              "RelativeDocumentMoniker": "Fibonacci.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\dot-net\\loops\\loops\\Fibonacci.cs",
+              "RelativeToolTip": "Fibonacci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:27:29.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

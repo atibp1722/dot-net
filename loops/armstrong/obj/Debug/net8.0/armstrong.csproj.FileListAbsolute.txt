@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\dot-net\loops\armstrong\bin\Debug\net8.0\armstrong.exe
+C:\Users\Admin\Desktop\dot-net\loops\armstrong\bin\Debug\net8.0\armstrong.deps.json
+C:\Users\Admin\Desktop\dot-net\loops\armstrong\bin\Debug\net8.0\armstrong.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\loops\armstrong\bin\Debug\net8.0\armstrong.dll
+C:\Users\Admin\Desktop\dot-net\loops\armstrong\bin\Debug\net8.0\armstrong.pdb
+C:\Users\Admin\Desktop\dot-net\loops\armstrong\obj\Debug\net8.0\armstrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\loops\armstrong\obj\Debug\net8.0\armstrong.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\loops\armstrong\obj\Debug\net8.0\armstrong.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\loops\armstrong\obj\Debug\net8.0\armstrong.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\loops\armstrong\obj\Debug\net8.0\armstrong.dll
+C:\Users\Admin\Desktop\dot-net\loops\armstrong\obj\Debug\net8.0\refint\armstrong.dll
+C:\Users\Admin\Desktop\dot-net\loops\armstrong\obj\Debug\net8.0\armstrong.pdb
+C:\Users\Admin\Desktop\dot-net\loops\armstrong\obj\Debug\net8.0\armstrong.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\loops\armstrong\obj\Debug\net8.0\ref\armstrong.dll

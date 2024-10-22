@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\dot-net\loops\loops\bin\Debug\net8.0\loops.exe
+C:\Users\Admin\Desktop\dot-net\loops\loops\bin\Debug\net8.0\loops.deps.json
+C:\Users\Admin\Desktop\dot-net\loops\loops\bin\Debug\net8.0\loops.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\loops\loops\bin\Debug\net8.0\loops.dll
+C:\Users\Admin\Desktop\dot-net\loops\loops\bin\Debug\net8.0\loops.pdb
+C:\Users\Admin\Desktop\dot-net\loops\loops\obj\Debug\net8.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\loops\loops\obj\Debug\net8.0\loops.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\loops\loops\obj\Debug\net8.0\loops.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\loops\loops\obj\Debug\net8.0\loops.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\loops\loops\obj\Debug\net8.0\loops.dll
+C:\Users\Admin\Desktop\dot-net\loops\loops\obj\Debug\net8.0\refint\loops.dll
+C:\Users\Admin\Desktop\dot-net\loops\loops\obj\Debug\net8.0\loops.pdb
+C:\Users\Admin\Desktop\dot-net\loops\loops\obj\Debug\net8.0\loops.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\loops\loops\obj\Debug\net8.0\ref\loops.dll
