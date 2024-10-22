@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\loops\Digits\bin\Debug\net8.0\Digits.exe
+C:\Users\Admin\Desktop\dot-net\loops\Digits\bin\Debug\net8.0\Digits.deps.json
+C:\Users\Admin\Desktop\dot-net\loops\Digits\bin\Debug\net8.0\Digits.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\loops\Digits\bin\Debug\net8.0\Digits.dll
+C:\Users\Admin\Desktop\dot-net\loops\Digits\bin\Debug\net8.0\Digits.pdb
+C:\Users\Admin\Desktop\dot-net\loops\Digits\obj\Debug\net8.0\Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\loops\Digits\obj\Debug\net8.0\Digits.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\loops\Digits\obj\Debug\net8.0\Digits.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\loops\Digits\obj\Debug\net8.0\Digits.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\loops\Digits\obj\Debug\net8.0\Digits.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\loops\Digits\obj\Debug\net8.0\Digits.dll
+C:\Users\Admin\Desktop\dot-net\loops\Digits\obj\Debug\net8.0\refint\Digits.dll
+C:\Users\Admin\Desktop\dot-net\loops\Digits\obj\Debug\net8.0\Digits.pdb
+C:\Users\Admin\Desktop\dot-net\loops\Digits\obj\Debug\net8.0\Digits.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\loops\Digits\obj\Debug\net8.0\ref\Digits.dll
