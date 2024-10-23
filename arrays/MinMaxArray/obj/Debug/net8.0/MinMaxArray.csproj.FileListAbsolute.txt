@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxArray\bin\Debug\net8.0\MinMaxArray.exe
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxArray\bin\Debug\net8.0\MinMaxArray.deps.json
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxArray\bin\Debug\net8.0\MinMaxArray.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxArray\bin\Debug\net8.0\MinMaxArray.dll
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxArray\bin\Debug\net8.0\MinMaxArray.pdb
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxArray\obj\Debug\net8.0\MinMaxArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxArray\obj\Debug\net8.0\MinMaxArray.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxArray\obj\Debug\net8.0\MinMaxArray.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxArray\obj\Debug\net8.0\MinMaxArray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxArray\obj\Debug\net8.0\MinMaxArray.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxArray\obj\Debug\net8.0\MinMaxArray.dll
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxArray\obj\Debug\net8.0\refint\MinMaxArray.dll
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxArray\obj\Debug\net8.0\MinMaxArray.pdb
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxArray\obj\Debug\net8.0\MinMaxArray.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxArray\obj\Debug\net8.0\ref\MinMaxArray.dll

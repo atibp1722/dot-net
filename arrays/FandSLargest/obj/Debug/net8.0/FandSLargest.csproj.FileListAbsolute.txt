@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\arrays\FandSLargest\bin\Debug\net8.0\FandSLargest.exe
+C:\Users\Admin\Desktop\dot-net\arrays\FandSLargest\bin\Debug\net8.0\FandSLargest.deps.json
+C:\Users\Admin\Desktop\dot-net\arrays\FandSLargest\bin\Debug\net8.0\FandSLargest.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\arrays\FandSLargest\bin\Debug\net8.0\FandSLargest.dll
+C:\Users\Admin\Desktop\dot-net\arrays\FandSLargest\bin\Debug\net8.0\FandSLargest.pdb
+C:\Users\Admin\Desktop\dot-net\arrays\FandSLargest\obj\Debug\net8.0\FandSLargest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\arrays\FandSLargest\obj\Debug\net8.0\FandSLargest.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\arrays\FandSLargest\obj\Debug\net8.0\FandSLargest.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\arrays\FandSLargest\obj\Debug\net8.0\FandSLargest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\arrays\FandSLargest\obj\Debug\net8.0\FandSLargest.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\arrays\FandSLargest\obj\Debug\net8.0\FandSLargest.dll
+C:\Users\Admin\Desktop\dot-net\arrays\FandSLargest\obj\Debug\net8.0\refint\FandSLargest.dll
+C:\Users\Admin\Desktop\dot-net\arrays\FandSLargest\obj\Debug\net8.0\FandSLargest.pdb
+C:\Users\Admin\Desktop\dot-net\arrays\FandSLargest\obj\Debug\net8.0\FandSLargest.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\arrays\FandSLargest\obj\Debug\net8.0\ref\FandSLargest.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\arrays\OddEvenInArray\bin\Debug\net8.0\OddEvenInArray.exe
+C:\Users\Admin\Desktop\dot-net\arrays\OddEvenInArray\bin\Debug\net8.0\OddEvenInArray.deps.json
+C:\Users\Admin\Desktop\dot-net\arrays\OddEvenInArray\bin\Debug\net8.0\OddEvenInArray.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\arrays\OddEvenInArray\bin\Debug\net8.0\OddEvenInArray.dll
+C:\Users\Admin\Desktop\dot-net\arrays\OddEvenInArray\bin\Debug\net8.0\OddEvenInArray.pdb
+C:\Users\Admin\Desktop\dot-net\arrays\OddEvenInArray\obj\Debug\net8.0\OddEvenInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\arrays\OddEvenInArray\obj\Debug\net8.0\OddEvenInArray.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\arrays\OddEvenInArray\obj\Debug\net8.0\OddEvenInArray.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\arrays\OddEvenInArray\obj\Debug\net8.0\OddEvenInArray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\arrays\OddEvenInArray\obj\Debug\net8.0\OddEvenInArray.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\arrays\OddEvenInArray\obj\Debug\net8.0\OddEvenInArray.dll
+C:\Users\Admin\Desktop\dot-net\arrays\OddEvenInArray\obj\Debug\net8.0\refint\OddEvenInArray.dll
+C:\Users\Admin\Desktop\dot-net\arrays\OddEvenInArray\obj\Debug\net8.0\OddEvenInArray.pdb
+C:\Users\Admin\Desktop\dot-net\arrays\OddEvenInArray\obj\Debug\net8.0\OddEvenInArray.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\arrays\OddEvenInArray\obj\Debug\net8.0\ref\OddEvenInArray.dll
