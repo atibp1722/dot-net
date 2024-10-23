@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\arrays\VowelConstCount\bin\Debug\net8.0\VowelConstCount.exe
+C:\Users\Admin\Desktop\dot-net\arrays\VowelConstCount\bin\Debug\net8.0\VowelConstCount.deps.json
+C:\Users\Admin\Desktop\dot-net\arrays\VowelConstCount\bin\Debug\net8.0\VowelConstCount.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\arrays\VowelConstCount\bin\Debug\net8.0\VowelConstCount.dll
+C:\Users\Admin\Desktop\dot-net\arrays\VowelConstCount\bin\Debug\net8.0\VowelConstCount.pdb
+C:\Users\Admin\Desktop\dot-net\arrays\VowelConstCount\obj\Debug\net8.0\VowelConstCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\arrays\VowelConstCount\obj\Debug\net8.0\VowelConstCount.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\arrays\VowelConstCount\obj\Debug\net8.0\VowelConstCount.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\arrays\VowelConstCount\obj\Debug\net8.0\VowelConstCount.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\arrays\VowelConstCount\obj\Debug\net8.0\VowelConstCount.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\arrays\VowelConstCount\obj\Debug\net8.0\VowelConstCount.dll
+C:\Users\Admin\Desktop\dot-net\arrays\VowelConstCount\obj\Debug\net8.0\refint\VowelConstCount.dll
+C:\Users\Admin\Desktop\dot-net\arrays\VowelConstCount\obj\Debug\net8.0\VowelConstCount.pdb
+C:\Users\Admin\Desktop\dot-net\arrays\VowelConstCount\obj\Debug\net8.0\VowelConstCount.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\arrays\VowelConstCount\obj\Debug\net8.0\ref\VowelConstCount.dll

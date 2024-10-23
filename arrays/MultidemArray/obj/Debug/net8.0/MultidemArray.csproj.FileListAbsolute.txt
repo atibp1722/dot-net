@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\arrays\MultidemArray\bin\Debug\net8.0\MultidemArray.exe
+C:\Users\Admin\Desktop\dot-net\arrays\MultidemArray\bin\Debug\net8.0\MultidemArray.deps.json
+C:\Users\Admin\Desktop\dot-net\arrays\MultidemArray\bin\Debug\net8.0\MultidemArray.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\arrays\MultidemArray\bin\Debug\net8.0\MultidemArray.dll
+C:\Users\Admin\Desktop\dot-net\arrays\MultidemArray\bin\Debug\net8.0\MultidemArray.pdb
+C:\Users\Admin\Desktop\dot-net\arrays\MultidemArray\obj\Debug\net8.0\MultidemArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\arrays\MultidemArray\obj\Debug\net8.0\MultidemArray.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\arrays\MultidemArray\obj\Debug\net8.0\MultidemArray.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\arrays\MultidemArray\obj\Debug\net8.0\MultidemArray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\arrays\MultidemArray\obj\Debug\net8.0\MultidemArray.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\arrays\MultidemArray\obj\Debug\net8.0\MultidemArray.dll
+C:\Users\Admin\Desktop\dot-net\arrays\MultidemArray\obj\Debug\net8.0\refint\MultidemArray.dll
+C:\Users\Admin\Desktop\dot-net\arrays\MultidemArray\obj\Debug\net8.0\MultidemArray.pdb
+C:\Users\Admin\Desktop\dot-net\arrays\MultidemArray\obj\Debug\net8.0\MultidemArray.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\arrays\MultidemArray\obj\Debug\net8.0\ref\MultidemArray.dll

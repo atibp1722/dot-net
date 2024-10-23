@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxSwap\bin\Debug\net8.0\MinMaxSwap.exe
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxSwap\bin\Debug\net8.0\MinMaxSwap.deps.json
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxSwap\bin\Debug\net8.0\MinMaxSwap.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxSwap\bin\Debug\net8.0\MinMaxSwap.dll
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxSwap\bin\Debug\net8.0\MinMaxSwap.pdb
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxSwap\obj\Debug\net8.0\MinMaxSwap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxSwap\obj\Debug\net8.0\MinMaxSwap.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxSwap\obj\Debug\net8.0\MinMaxSwap.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxSwap\obj\Debug\net8.0\MinMaxSwap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxSwap\obj\Debug\net8.0\MinMaxSwap.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxSwap\obj\Debug\net8.0\MinMaxSwap.dll
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxSwap\obj\Debug\net8.0\refint\MinMaxSwap.dll
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxSwap\obj\Debug\net8.0\MinMaxSwap.pdb
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxSwap\obj\Debug\net8.0\MinMaxSwap.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\arrays\MinMaxSwap\obj\Debug\net8.0\ref\MinMaxSwap.dll

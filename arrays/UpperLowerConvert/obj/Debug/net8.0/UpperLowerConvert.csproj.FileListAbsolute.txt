@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\arrays\UpperLowerConvert\bin\Debug\net8.0\UpperLowerConvert.exe
+C:\Users\Admin\Desktop\dot-net\arrays\UpperLowerConvert\bin\Debug\net8.0\UpperLowerConvert.deps.json
+C:\Users\Admin\Desktop\dot-net\arrays\UpperLowerConvert\bin\Debug\net8.0\UpperLowerConvert.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\arrays\UpperLowerConvert\bin\Debug\net8.0\UpperLowerConvert.dll
+C:\Users\Admin\Desktop\dot-net\arrays\UpperLowerConvert\bin\Debug\net8.0\UpperLowerConvert.pdb
+C:\Users\Admin\Desktop\dot-net\arrays\UpperLowerConvert\obj\Debug\net8.0\UpperLowerConvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\arrays\UpperLowerConvert\obj\Debug\net8.0\UpperLowerConvert.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\arrays\UpperLowerConvert\obj\Debug\net8.0\UpperLowerConvert.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\arrays\UpperLowerConvert\obj\Debug\net8.0\UpperLowerConvert.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\arrays\UpperLowerConvert\obj\Debug\net8.0\UpperLowerConvert.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\arrays\UpperLowerConvert\obj\Debug\net8.0\UpperLowerConvert.dll
+C:\Users\Admin\Desktop\dot-net\arrays\UpperLowerConvert\obj\Debug\net8.0\refint\UpperLowerConvert.dll
+C:\Users\Admin\Desktop\dot-net\arrays\UpperLowerConvert\obj\Debug\net8.0\UpperLowerConvert.pdb
+C:\Users\Admin\Desktop\dot-net\arrays\UpperLowerConvert\obj\Debug\net8.0\UpperLowerConvert.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\arrays\UpperLowerConvert\obj\Debug\net8.0\ref\UpperLowerConvert.dll
