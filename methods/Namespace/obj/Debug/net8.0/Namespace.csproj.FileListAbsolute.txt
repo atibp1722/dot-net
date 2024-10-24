@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\methods\Namespace\bin\Debug\net8.0\Namespace.exe
+C:\Users\Admin\Desktop\dot-net\methods\Namespace\bin\Debug\net8.0\Namespace.deps.json
+C:\Users\Admin\Desktop\dot-net\methods\Namespace\bin\Debug\net8.0\Namespace.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\methods\Namespace\bin\Debug\net8.0\Namespace.dll
+C:\Users\Admin\Desktop\dot-net\methods\Namespace\bin\Debug\net8.0\Namespace.pdb
+C:\Users\Admin\Desktop\dot-net\methods\Namespace\obj\Debug\net8.0\Namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\methods\Namespace\obj\Debug\net8.0\Namespace.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\methods\Namespace\obj\Debug\net8.0\Namespace.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\methods\Namespace\obj\Debug\net8.0\Namespace.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\methods\Namespace\obj\Debug\net8.0\Namespace.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\methods\Namespace\obj\Debug\net8.0\Namespace.dll
+C:\Users\Admin\Desktop\dot-net\methods\Namespace\obj\Debug\net8.0\refint\Namespace.dll
+C:\Users\Admin\Desktop\dot-net\methods\Namespace\obj\Debug\net8.0\Namespace.pdb
+C:\Users\Admin\Desktop\dot-net\methods\Namespace\obj\Debug\net8.0\Namespace.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\methods\Namespace\obj\Debug\net8.0\ref\Namespace.dll
