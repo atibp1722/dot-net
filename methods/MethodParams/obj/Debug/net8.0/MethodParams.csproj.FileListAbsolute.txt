@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\methods\MethodParams\bin\Debug\net8.0\MethodParams.exe
+C:\Users\Admin\Desktop\dot-net\methods\MethodParams\bin\Debug\net8.0\MethodParams.deps.json
+C:\Users\Admin\Desktop\dot-net\methods\MethodParams\bin\Debug\net8.0\MethodParams.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\methods\MethodParams\bin\Debug\net8.0\MethodParams.dll
+C:\Users\Admin\Desktop\dot-net\methods\MethodParams\bin\Debug\net8.0\MethodParams.pdb
+C:\Users\Admin\Desktop\dot-net\methods\MethodParams\obj\Debug\net8.0\MethodParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\methods\MethodParams\obj\Debug\net8.0\MethodParams.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\methods\MethodParams\obj\Debug\net8.0\MethodParams.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\methods\MethodParams\obj\Debug\net8.0\MethodParams.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\methods\MethodParams\obj\Debug\net8.0\MethodParams.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\methods\MethodParams\obj\Debug\net8.0\MethodParams.dll
+C:\Users\Admin\Desktop\dot-net\methods\MethodParams\obj\Debug\net8.0\refint\MethodParams.dll
+C:\Users\Admin\Desktop\dot-net\methods\MethodParams\obj\Debug\net8.0\MethodParams.pdb
+C:\Users\Admin\Desktop\dot-net\methods\MethodParams\obj\Debug\net8.0\MethodParams.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\methods\MethodParams\obj\Debug\net8.0\ref\MethodParams.dll
