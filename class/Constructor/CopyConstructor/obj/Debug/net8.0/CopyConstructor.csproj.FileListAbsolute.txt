@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\class\Constructor\CopyConstructor\bin\Debug\net8.0\CopyConstructor.exe
+C:\Users\Admin\Desktop\dot-net\class\Constructor\CopyConstructor\bin\Debug\net8.0\CopyConstructor.deps.json
+C:\Users\Admin\Desktop\dot-net\class\Constructor\CopyConstructor\bin\Debug\net8.0\CopyConstructor.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\class\Constructor\CopyConstructor\bin\Debug\net8.0\CopyConstructor.dll
+C:\Users\Admin\Desktop\dot-net\class\Constructor\CopyConstructor\bin\Debug\net8.0\CopyConstructor.pdb
+C:\Users\Admin\Desktop\dot-net\class\Constructor\CopyConstructor\obj\Debug\net8.0\CopyConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\class\Constructor\CopyConstructor\obj\Debug\net8.0\CopyConstructor.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\class\Constructor\CopyConstructor\obj\Debug\net8.0\CopyConstructor.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\class\Constructor\CopyConstructor\obj\Debug\net8.0\CopyConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\class\Constructor\CopyConstructor\obj\Debug\net8.0\CopyConstructor.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\class\Constructor\CopyConstructor\obj\Debug\net8.0\CopyConstructor.dll
+C:\Users\Admin\Desktop\dot-net\class\Constructor\CopyConstructor\obj\Debug\net8.0\refint\CopyConstructor.dll
+C:\Users\Admin\Desktop\dot-net\class\Constructor\CopyConstructor\obj\Debug\net8.0\CopyConstructor.pdb
+C:\Users\Admin\Desktop\dot-net\class\Constructor\CopyConstructor\obj\Debug\net8.0\CopyConstructor.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\class\Constructor\CopyConstructor\obj\Debug\net8.0\ref\CopyConstructor.dll

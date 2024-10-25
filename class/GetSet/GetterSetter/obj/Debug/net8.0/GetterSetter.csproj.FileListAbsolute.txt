@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\class\GetSet\GetterSetter\bin\Debug\net8.0\GetterSetter.exe
+C:\Users\Admin\Desktop\dot-net\class\GetSet\GetterSetter\bin\Debug\net8.0\GetterSetter.deps.json
+C:\Users\Admin\Desktop\dot-net\class\GetSet\GetterSetter\bin\Debug\net8.0\GetterSetter.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\class\GetSet\GetterSetter\bin\Debug\net8.0\GetterSetter.dll
+C:\Users\Admin\Desktop\dot-net\class\GetSet\GetterSetter\bin\Debug\net8.0\GetterSetter.pdb
+C:\Users\Admin\Desktop\dot-net\class\GetSet\GetterSetter\obj\Debug\net8.0\GetterSetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\class\GetSet\GetterSetter\obj\Debug\net8.0\GetterSetter.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\class\GetSet\GetterSetter\obj\Debug\net8.0\GetterSetter.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\class\GetSet\GetterSetter\obj\Debug\net8.0\GetterSetter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\class\GetSet\GetterSetter\obj\Debug\net8.0\GetterSetter.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\class\GetSet\GetterSetter\obj\Debug\net8.0\GetterSetter.dll
+C:\Users\Admin\Desktop\dot-net\class\GetSet\GetterSetter\obj\Debug\net8.0\refint\GetterSetter.dll
+C:\Users\Admin\Desktop\dot-net\class\GetSet\GetterSetter\obj\Debug\net8.0\GetterSetter.pdb
+C:\Users\Admin\Desktop\dot-net\class\GetSet\GetterSetter\obj\Debug\net8.0\GetterSetter.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\class\GetSet\GetterSetter\obj\Debug\net8.0\ref\GetterSetter.dll
