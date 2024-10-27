@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\inheritance\InheritanceType\bin\Debug\net8.0\InheritanceType.exe
+C:\Users\Admin\Desktop\dot-net\inheritance\InheritanceType\bin\Debug\net8.0\InheritanceType.deps.json
+C:\Users\Admin\Desktop\dot-net\inheritance\InheritanceType\bin\Debug\net8.0\InheritanceType.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\inheritance\InheritanceType\bin\Debug\net8.0\InheritanceType.dll
+C:\Users\Admin\Desktop\dot-net\inheritance\InheritanceType\bin\Debug\net8.0\InheritanceType.pdb
+C:\Users\Admin\Desktop\dot-net\inheritance\InheritanceType\obj\Debug\net8.0\InheritanceType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\inheritance\InheritanceType\obj\Debug\net8.0\InheritanceType.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\inheritance\InheritanceType\obj\Debug\net8.0\InheritanceType.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\inheritance\InheritanceType\obj\Debug\net8.0\InheritanceType.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\inheritance\InheritanceType\obj\Debug\net8.0\InheritanceType.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\inheritance\InheritanceType\obj\Debug\net8.0\InheritanceType.dll
+C:\Users\Admin\Desktop\dot-net\inheritance\InheritanceType\obj\Debug\net8.0\refint\InheritanceType.dll
+C:\Users\Admin\Desktop\dot-net\inheritance\InheritanceType\obj\Debug\net8.0\InheritanceType.pdb
+C:\Users\Admin\Desktop\dot-net\inheritance\InheritanceType\obj\Debug\net8.0\InheritanceType.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\inheritance\InheritanceType\obj\Debug\net8.0\ref\InheritanceType.dll
