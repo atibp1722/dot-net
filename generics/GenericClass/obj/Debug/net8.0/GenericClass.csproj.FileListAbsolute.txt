@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\generics\GenericClass\bin\Debug\net8.0\GenericClass.exe
+C:\Users\Admin\Desktop\dot-net\generics\GenericClass\bin\Debug\net8.0\GenericClass.deps.json
+C:\Users\Admin\Desktop\dot-net\generics\GenericClass\bin\Debug\net8.0\GenericClass.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\generics\GenericClass\bin\Debug\net8.0\GenericClass.dll
+C:\Users\Admin\Desktop\dot-net\generics\GenericClass\bin\Debug\net8.0\GenericClass.pdb
+C:\Users\Admin\Desktop\dot-net\generics\GenericClass\obj\Debug\net8.0\GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\generics\GenericClass\obj\Debug\net8.0\GenericClass.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\generics\GenericClass\obj\Debug\net8.0\GenericClass.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\generics\GenericClass\obj\Debug\net8.0\GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\generics\GenericClass\obj\Debug\net8.0\GenericClass.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\generics\GenericClass\obj\Debug\net8.0\GenericClass.dll
+C:\Users\Admin\Desktop\dot-net\generics\GenericClass\obj\Debug\net8.0\refint\GenericClass.dll
+C:\Users\Admin\Desktop\dot-net\generics\GenericClass\obj\Debug\net8.0\GenericClass.pdb
+C:\Users\Admin\Desktop\dot-net\generics\GenericClass\obj\Debug\net8.0\GenericClass.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\generics\GenericClass\obj\Debug\net8.0\ref\GenericClass.dll
