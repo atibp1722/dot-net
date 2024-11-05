@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\obj\Debug\net8.0\StackQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\obj\Debug\net8.0\StackQueue.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\obj\Debug\net8.0\StackQueue.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\obj\Debug\net8.0\StackQueue.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\obj\Debug\net8.0\StackQueue.sourcelink.json

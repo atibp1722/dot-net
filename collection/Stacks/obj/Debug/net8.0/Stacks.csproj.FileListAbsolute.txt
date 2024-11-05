@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\bin\Debug\net8.0\Stacks.exe
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\bin\Debug\net8.0\Stacks.deps.json
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\bin\Debug\net8.0\Stacks.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\bin\Debug\net8.0\Stacks.dll
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\bin\Debug\net8.0\Stacks.pdb
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\obj\Debug\net8.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\obj\Debug\net8.0\Stacks.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\obj\Debug\net8.0\Stacks.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\obj\Debug\net8.0\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\obj\Debug\net8.0\Stacks.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\obj\Debug\net8.0\Stacks.dll
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\obj\Debug\net8.0\refint\Stacks.dll
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\obj\Debug\net8.0\Stacks.pdb
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\obj\Debug\net8.0\Stacks.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\collection\Stacks\obj\Debug\net8.0\ref\Stacks.dll
