@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\strings\Serializable\Serialize\bin\Debug\net6.0\Serialize.exe
+C:\Users\Admin\Desktop\dot-net\strings\Serializable\Serialize\bin\Debug\net6.0\Serialize.deps.json
+C:\Users\Admin\Desktop\dot-net\strings\Serializable\Serialize\bin\Debug\net6.0\Serialize.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\strings\Serializable\Serialize\bin\Debug\net6.0\Serialize.dll
+C:\Users\Admin\Desktop\dot-net\strings\Serializable\Serialize\bin\Debug\net6.0\Serialize.pdb
+C:\Users\Admin\Desktop\dot-net\strings\Serializable\Serialize\obj\Debug\net6.0\Serialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\strings\Serializable\Serialize\obj\Debug\net6.0\Serialize.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\strings\Serializable\Serialize\obj\Debug\net6.0\Serialize.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\strings\Serializable\Serialize\obj\Debug\net6.0\Serialize.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\strings\Serializable\Serialize\obj\Debug\net6.0\Serialize.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\strings\Serializable\Serialize\obj\Debug\net6.0\Serialize.dll
+C:\Users\Admin\Desktop\dot-net\strings\Serializable\Serialize\obj\Debug\net6.0\refint\Serialize.dll
+C:\Users\Admin\Desktop\dot-net\strings\Serializable\Serialize\obj\Debug\net6.0\Serialize.pdb
+C:\Users\Admin\Desktop\dot-net\strings\Serializable\Serialize\obj\Debug\net6.0\Serialize.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\strings\Serializable\Serialize\obj\Debug\net6.0\ref\Serialize.dll
