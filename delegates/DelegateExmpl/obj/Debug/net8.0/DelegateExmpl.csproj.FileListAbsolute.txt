@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateExmpl\bin\Debug\net8.0\DelegateExmpl.exe
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateExmpl\bin\Debug\net8.0\DelegateExmpl.deps.json
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateExmpl\bin\Debug\net8.0\DelegateExmpl.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateExmpl\bin\Debug\net8.0\DelegateExmpl.dll
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateExmpl\bin\Debug\net8.0\DelegateExmpl.pdb
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateExmpl\obj\Debug\net8.0\DelegateExmpl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateExmpl\obj\Debug\net8.0\DelegateExmpl.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateExmpl\obj\Debug\net8.0\DelegateExmpl.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateExmpl\obj\Debug\net8.0\DelegateExmpl.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateExmpl\obj\Debug\net8.0\DelegateExmpl.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateExmpl\obj\Debug\net8.0\DelegateExmpl.dll
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateExmpl\obj\Debug\net8.0\refint\DelegateExmpl.dll
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateExmpl\obj\Debug\net8.0\DelegateExmpl.pdb
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateExmpl\obj\Debug\net8.0\DelegateExmpl.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateExmpl\obj\Debug\net8.0\ref\DelegateExmpl.dll

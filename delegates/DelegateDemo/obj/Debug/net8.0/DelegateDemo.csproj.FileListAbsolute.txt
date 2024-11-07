@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateDemo\bin\Debug\net8.0\DelegateDemo.exe
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateDemo\bin\Debug\net8.0\DelegateDemo.deps.json
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateDemo\bin\Debug\net8.0\DelegateDemo.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateDemo\bin\Debug\net8.0\DelegateDemo.dll
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateDemo\bin\Debug\net8.0\DelegateDemo.pdb
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateDemo\obj\Debug\net8.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateDemo\obj\Debug\net8.0\DelegateDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateDemo\obj\Debug\net8.0\DelegateDemo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateDemo\obj\Debug\net8.0\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateDemo\obj\Debug\net8.0\DelegateDemo.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateDemo\obj\Debug\net8.0\DelegateDemo.dll
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateDemo\obj\Debug\net8.0\refint\DelegateDemo.dll
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateDemo\obj\Debug\net8.0\DelegateDemo.pdb
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateDemo\obj\Debug\net8.0\DelegateDemo.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\delegates\DelegateDemo\obj\Debug\net8.0\ref\DelegateDemo.dll
