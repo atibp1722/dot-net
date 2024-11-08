@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\strings\Lambda\Lambda\bin\Debug\net8.0\Lambda.exe
+C:\Users\Admin\Desktop\dot-net\strings\Lambda\Lambda\bin\Debug\net8.0\Lambda.deps.json
+C:\Users\Admin\Desktop\dot-net\strings\Lambda\Lambda\bin\Debug\net8.0\Lambda.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\strings\Lambda\Lambda\bin\Debug\net8.0\Lambda.dll
+C:\Users\Admin\Desktop\dot-net\strings\Lambda\Lambda\bin\Debug\net8.0\Lambda.pdb
+C:\Users\Admin\Desktop\dot-net\strings\Lambda\Lambda\obj\Debug\net8.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\strings\Lambda\Lambda\obj\Debug\net8.0\Lambda.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\strings\Lambda\Lambda\obj\Debug\net8.0\Lambda.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\strings\Lambda\Lambda\obj\Debug\net8.0\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\strings\Lambda\Lambda\obj\Debug\net8.0\Lambda.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\strings\Lambda\Lambda\obj\Debug\net8.0\Lambda.dll
+C:\Users\Admin\Desktop\dot-net\strings\Lambda\Lambda\obj\Debug\net8.0\refint\Lambda.dll
+C:\Users\Admin\Desktop\dot-net\strings\Lambda\Lambda\obj\Debug\net8.0\Lambda.pdb
+C:\Users\Admin\Desktop\dot-net\strings\Lambda\Lambda\obj\Debug\net8.0\Lambda.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\strings\Lambda\Lambda\obj\Debug\net8.0\ref\Lambda.dll

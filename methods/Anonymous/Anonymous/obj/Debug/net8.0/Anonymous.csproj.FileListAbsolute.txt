@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\methods\Anonymous\Anonymous\bin\Debug\net8.0\Anonymous.exe
+C:\Users\Admin\Desktop\dot-net\methods\Anonymous\Anonymous\bin\Debug\net8.0\Anonymous.deps.json
+C:\Users\Admin\Desktop\dot-net\methods\Anonymous\Anonymous\bin\Debug\net8.0\Anonymous.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\methods\Anonymous\Anonymous\bin\Debug\net8.0\Anonymous.dll
+C:\Users\Admin\Desktop\dot-net\methods\Anonymous\Anonymous\bin\Debug\net8.0\Anonymous.pdb
+C:\Users\Admin\Desktop\dot-net\methods\Anonymous\Anonymous\obj\Debug\net8.0\Anonymous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\methods\Anonymous\Anonymous\obj\Debug\net8.0\Anonymous.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\methods\Anonymous\Anonymous\obj\Debug\net8.0\Anonymous.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\methods\Anonymous\Anonymous\obj\Debug\net8.0\Anonymous.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\methods\Anonymous\Anonymous\obj\Debug\net8.0\Anonymous.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\methods\Anonymous\Anonymous\obj\Debug\net8.0\Anonymous.dll
+C:\Users\Admin\Desktop\dot-net\methods\Anonymous\Anonymous\obj\Debug\net8.0\refint\Anonymous.dll
+C:\Users\Admin\Desktop\dot-net\methods\Anonymous\Anonymous\obj\Debug\net8.0\Anonymous.pdb
+C:\Users\Admin\Desktop\dot-net\methods\Anonymous\Anonymous\obj\Debug\net8.0\Anonymous.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\methods\Anonymous\Anonymous\obj\Debug\net8.0\ref\Anonymous.dll
