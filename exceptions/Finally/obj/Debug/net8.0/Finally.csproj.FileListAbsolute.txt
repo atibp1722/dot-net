@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\exceptions\Finally\bin\Debug\net8.0\Finally.exe
+C:\Users\Admin\Desktop\dot-net\exceptions\Finally\bin\Debug\net8.0\Finally.deps.json
+C:\Users\Admin\Desktop\dot-net\exceptions\Finally\bin\Debug\net8.0\Finally.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\exceptions\Finally\bin\Debug\net8.0\Finally.dll
+C:\Users\Admin\Desktop\dot-net\exceptions\Finally\bin\Debug\net8.0\Finally.pdb
+C:\Users\Admin\Desktop\dot-net\exceptions\Finally\obj\Debug\net8.0\Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\exceptions\Finally\obj\Debug\net8.0\Finally.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\exceptions\Finally\obj\Debug\net8.0\Finally.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\exceptions\Finally\obj\Debug\net8.0\Finally.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\exceptions\Finally\obj\Debug\net8.0\Finally.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\exceptions\Finally\obj\Debug\net8.0\Finally.dll
+C:\Users\Admin\Desktop\dot-net\exceptions\Finally\obj\Debug\net8.0\refint\Finally.dll
+C:\Users\Admin\Desktop\dot-net\exceptions\Finally\obj\Debug\net8.0\Finally.pdb
+C:\Users\Admin\Desktop\dot-net\exceptions\Finally\obj\Debug\net8.0\Finally.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\exceptions\Finally\obj\Debug\net8.0\ref\Finally.dll
