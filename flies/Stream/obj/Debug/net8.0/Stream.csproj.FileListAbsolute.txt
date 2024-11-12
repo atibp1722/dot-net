@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\flies\Stream\bin\Debug\net8.0\Stream.exe
+C:\Users\Admin\Desktop\dot-net\flies\Stream\bin\Debug\net8.0\Stream.deps.json
+C:\Users\Admin\Desktop\dot-net\flies\Stream\bin\Debug\net8.0\Stream.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\flies\Stream\bin\Debug\net8.0\Stream.dll
+C:\Users\Admin\Desktop\dot-net\flies\Stream\bin\Debug\net8.0\Stream.pdb
+C:\Users\Admin\Desktop\dot-net\flies\Stream\obj\Debug\net8.0\Stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\flies\Stream\obj\Debug\net8.0\Stream.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\flies\Stream\obj\Debug\net8.0\Stream.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\flies\Stream\obj\Debug\net8.0\Stream.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\flies\Stream\obj\Debug\net8.0\Stream.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\flies\Stream\obj\Debug\net8.0\Stream.dll
+C:\Users\Admin\Desktop\dot-net\flies\Stream\obj\Debug\net8.0\refint\Stream.dll
+C:\Users\Admin\Desktop\dot-net\flies\Stream\obj\Debug\net8.0\Stream.pdb
+C:\Users\Admin\Desktop\dot-net\flies\Stream\obj\Debug\net8.0\Stream.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\flies\Stream\obj\Debug\net8.0\ref\Stream.dll
