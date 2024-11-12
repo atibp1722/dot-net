@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\flies\Directory\bin\Debug\net8.0\Directory.exe
+C:\Users\Admin\Desktop\dot-net\flies\Directory\bin\Debug\net8.0\Directory.deps.json
+C:\Users\Admin\Desktop\dot-net\flies\Directory\bin\Debug\net8.0\Directory.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\flies\Directory\bin\Debug\net8.0\Directory.dll
+C:\Users\Admin\Desktop\dot-net\flies\Directory\bin\Debug\net8.0\Directory.pdb
+C:\Users\Admin\Desktop\dot-net\flies\Directory\obj\Debug\net8.0\Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\flies\Directory\obj\Debug\net8.0\Directory.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\flies\Directory\obj\Debug\net8.0\Directory.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\flies\Directory\obj\Debug\net8.0\Directory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\flies\Directory\obj\Debug\net8.0\Directory.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\flies\Directory\obj\Debug\net8.0\Directory.dll
+C:\Users\Admin\Desktop\dot-net\flies\Directory\obj\Debug\net8.0\refint\Directory.dll
+C:\Users\Admin\Desktop\dot-net\flies\Directory\obj\Debug\net8.0\Directory.pdb
+C:\Users\Admin\Desktop\dot-net\flies\Directory\obj\Debug\net8.0\Directory.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\flies\Directory\obj\Debug\net8.0\ref\Directory.dll
