@@ -15,7 +15,9 @@ class Program
         var num3 = new HashSet<int> {3,6,9,12,15};
         var num4 = new [] {5,10,15,20,25};
 
-        //var cmp = new Composition<int> {num1,num2,num3,num4 };
+        //var cmp = new Composition<int>(new IEnumerable<int>[] { num1,num2,num3,num4 });
+
+        var cmp = new Composition<int> {num1,num2,num3,num4 };
 
         //int evenCnt = 0;
 
@@ -27,6 +29,6 @@ class Program
         //    }
         //}
 
-        //int evenCntr = cmp.Count(x => isEven(x));
+        //int evenCnt = cmp.Count(x => isEven(x));
     }
 }
