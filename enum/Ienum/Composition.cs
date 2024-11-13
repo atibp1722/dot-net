@@ -7,6 +7,15 @@ using System.Threading.Tasks;
 
 namespace Ienum
 {
+
+    static class Composition 
+    {
+        public static Composition<T> Create<T>(params IEnumerable<T>[] collections)
+        {
+            return new Composition<T>(collections);
+        }
+    }
+
     class Composition<T> : IEnumerable<T>
     {
         private List <IEnumerable<T>> collections;
@@ -42,5 +51,17 @@ namespace Ienum
         {
             return GetEnumerator();
         }
+
+        public X TypeTo<X>() where X: ICollection<T>, new()
+        {
+            var collection = new X();
+
+            foreach(var item in this)
+            {
+                collection.Add(item);
+            }
+            return collection;
+        }
+
     }
 }

@@ -17,24 +17,40 @@ class Program
 
         //var cmp = new Composition<int>(new IEnumerable<int>[] { num1,num2,num3,num4 });
 
-        var cmp = new Composition<int> {num1,num2,num3,num4 };
+        //var cmp = new Composition<int> {num1,num2,num3,num4 };
 
         //int evenCnt = 0;
 
-        //foreach (var num in cmp) 
+        //foreach (var num in cmp)
         //{
-        //    if (isEven(num)) 
+        //    if (isEven(num))
         //    {
         //        evenCnt++;
         //    }
         //}
+        ////int evenCnt = cmp.Count(x => isEven(x));
 
-        //int evenCnt = cmp.Count(x => isEven(x));
+        //IEnumerable<int> test = Compl.Take(num1,2);
+        //foreach(var i in test) 
+        //{
 
-        IEnumerable<int> test = Compl.Take(num1,2);
-        foreach(var i in test) 
-        {
+        //}
 
-        }
+        //var cmp1 = Composition.Create(new IEnumerable<int>[]{ num1, num2, num3, num4 });
+
+        //int evenCnt1 = 0;
+
+        //foreach (var num in cmp1)
+        //{
+        //    if (isEven(num))
+        //    {
+        //        evenCnt1++;
+        //    }
+        //}
+        //int evenCnt1 = cmp1.Count(x => isEven(x));
+
+        int count = Composition.Create(num1,num2,num3,num4).Count(x => isEven(x));
+
+        HashSet<int> hash = Composition.Create(num1, num2, num3, num4).TypeTo<HashSet<int>>();
     }
 }
