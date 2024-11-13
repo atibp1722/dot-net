@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\extension\ExtnDemo\bin\Debug\net8.0\ExtnDemo.exe
+C:\Users\Admin\Desktop\dot-net\extension\ExtnDemo\bin\Debug\net8.0\ExtnDemo.deps.json
+C:\Users\Admin\Desktop\dot-net\extension\ExtnDemo\bin\Debug\net8.0\ExtnDemo.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\extension\ExtnDemo\bin\Debug\net8.0\ExtnDemo.dll
+C:\Users\Admin\Desktop\dot-net\extension\ExtnDemo\bin\Debug\net8.0\ExtnDemo.pdb
+C:\Users\Admin\Desktop\dot-net\extension\ExtnDemo\obj\Debug\net8.0\ExtnDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\extension\ExtnDemo\obj\Debug\net8.0\ExtnDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\extension\ExtnDemo\obj\Debug\net8.0\ExtnDemo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\extension\ExtnDemo\obj\Debug\net8.0\ExtnDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\extension\ExtnDemo\obj\Debug\net8.0\ExtnDemo.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\extension\ExtnDemo\obj\Debug\net8.0\ExtnDemo.dll
+C:\Users\Admin\Desktop\dot-net\extension\ExtnDemo\obj\Debug\net8.0\refint\ExtnDemo.dll
+C:\Users\Admin\Desktop\dot-net\extension\ExtnDemo\obj\Debug\net8.0\ExtnDemo.pdb
+C:\Users\Admin\Desktop\dot-net\extension\ExtnDemo\obj\Debug\net8.0\ExtnDemo.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\extension\ExtnDemo\obj\Debug\net8.0\ref\ExtnDemo.dll
