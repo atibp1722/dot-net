@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ienum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+144e56881982a64731d49c706406abfd4804de7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b00a6fcd546adc847aa8d119e7ef548848155c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ienum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ienum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

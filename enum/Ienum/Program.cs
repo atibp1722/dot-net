@@ -30,5 +30,11 @@ class Program
         //}
 
         //int evenCnt = cmp.Count(x => isEven(x));
+
+        IEnumerable<int> test = Compl.Take(num1,2);
+        foreach(var i in test) 
+        {
+
+        }
     }
 }
