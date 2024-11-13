@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dot-net\enum\Ienum\bin\Debug\net8.0\Ienum.exe
+C:\Users\Admin\Desktop\dot-net\enum\Ienum\bin\Debug\net8.0\Ienum.deps.json
+C:\Users\Admin\Desktop\dot-net\enum\Ienum\bin\Debug\net8.0\Ienum.runtimeconfig.json
+C:\Users\Admin\Desktop\dot-net\enum\Ienum\bin\Debug\net8.0\Ienum.dll
+C:\Users\Admin\Desktop\dot-net\enum\Ienum\bin\Debug\net8.0\Ienum.pdb
+C:\Users\Admin\Desktop\dot-net\enum\Ienum\obj\Debug\net8.0\Ienum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dot-net\enum\Ienum\obj\Debug\net8.0\Ienum.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dot-net\enum\Ienum\obj\Debug\net8.0\Ienum.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dot-net\enum\Ienum\obj\Debug\net8.0\Ienum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dot-net\enum\Ienum\obj\Debug\net8.0\Ienum.sourcelink.json
+C:\Users\Admin\Desktop\dot-net\enum\Ienum\obj\Debug\net8.0\Ienum.dll
+C:\Users\Admin\Desktop\dot-net\enum\Ienum\obj\Debug\net8.0\refint\Ienum.dll
+C:\Users\Admin\Desktop\dot-net\enum\Ienum\obj\Debug\net8.0\Ienum.pdb
+C:\Users\Admin\Desktop\dot-net\enum\Ienum\obj\Debug\net8.0\Ienum.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dot-net\enum\Ienum\obj\Debug\net8.0\ref\Ienum.dll
